@@ -1,0 +1,103 @@
+{
+    "tasks": [{
+            "name": "DevOps",
+            "hours": 0,
+            "address": "DevOps effort"
+        },
+        {
+            "name": "Bug",
+            "hours": 0,
+            "address": "Bug effort"
+        },
+        {
+            "name": "Pair programing and Code review",
+            "hours": 0,
+            "address": "Pair programing and Code review efforts"
+        },
+        {
+            "name": "Architecture",
+            "hours": 0,
+            "address": "Architecture effort"
+        },
+        {
+            "name": "Tagging implementation",
+            "hours": 0,
+            "address": "Tagging implementation effort"
+        },
+        {
+            "name": "Analytics",
+            "hours": 0,
+            "address": "Analytics effort"
+        },
+        {
+            "name": "Maintanence",
+            "hours": 0,
+            "address": "Maintanence effort"
+        },
+        {
+            "name": "Test Efforts",
+            "hours": 0,
+            "address": "Manuel & Automation effort"
+        },
+        {
+            "name": "Analysis Effort",
+            "hours": 0,
+            "address": "Project Analysis effort"
+        },
+        {
+            "name": "Managers Effort",
+            "hours": 0,
+            "address": "Engineering Managers efforts"
+        },
+        {
+            "name": "PM",
+            "hours": 0,
+            "address": "PM efforts"
+        },
+        {
+            "name": "Content",
+            "hours": 0,
+            "address": "Content Efforts"
+        },
+        {
+            "name": "Design",
+            "hours": 0,
+            "address": "Design Efforts"
+        },
+        {
+            "name": "Meetings",
+            "hours": 0,
+            "address": "Meeting Efforts"
+        },
+        {
+            "name": "Remark rounds",
+            "hours": 0,
+            "address": "Remark rounds Effort"
+        },
+        {
+            "name": "Documentation",
+            "hours": 0,
+            "address": "Documentation Effort"
+        },
+        {
+            "name": "Localizations",
+            "hours": 0,
+            "address": "Localizations Effort"
+        },
+        {
+            "name": "Accessibility",
+            "hours": 0,
+            "address": "Accessibility Effort"
+        },
+        {
+            "name": "Urgent support",
+            "hours": 0,
+            "address": "Urgent support Effort"
+        },
+        {
+            "name": "Training",
+            "hours": 0,
+            "address": "Training Effort"
+        }
+    ]
+}
